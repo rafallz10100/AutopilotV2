@@ -1,16 +1,13 @@
-# IntunewinBuilder
+# AutopilotV2
 
 ## Description
 
-AutopilotV2 is an application designed to prepare and decrypt *.intunewin files. The application allows you to quickly and easily build and decrypt an *.intunewin file
+AutopilotV2 is an application used to generate/import a *.csv file to Intune for the Autopilot Device Preparation process.
 
 ## Requirements
 
 - Windows 10/11
 - Minimum 4MB of disk space ;)
-
-## Installation
-The IntunewinBuilde application is installed using a standard msi file
 
 ## How it works?
 
@@ -44,9 +41,12 @@ The IntunewinBuilde application is installed using a standard msi file
 1. If the system version is not compatible with the Autopilot Device Preparation process, you will be informed about it in the application window:
 
 ![image](https://github.com/user-attachments/assets/892b7b49-d5ee-4128-8631-8a452c4ce023)
+
 2. Select Windows Update button
 3. The Windows Update system window will appear
-4. Install updates
+
+![Zrzut ekranu 2024-09-11 090958](https://github.com/user-attachments/assets/c4506c50-bef0-4100-aed4-a2b7b226d2ec)
+5. Install updates
 
 
 ## Reporting problems
