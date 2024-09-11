@@ -7,7 +7,8 @@ AutopilotV2 is an application used to generate/import a *.csv file to Intune for
 ## Requirements
 
 - Windows 10/11
-- Minimum 4MB of disk space ;)
+- Minimum 3MB of disk space
+- Internet access
 
 ## How it works?
 
