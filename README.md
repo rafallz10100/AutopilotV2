@@ -1,4 +1,3 @@
-# Rafal Zimonczyk
 # AutopilotV2
 
 ## Description
