@@ -4,7 +4,7 @@ copy the contents of `autopilotv2-icons/` into your repo at `assets/icons/`.
 -->
 
 # AutopilotV2
-
+Rafal Zimonczyk
 [![MEM Community — Official Community Tool](https://img.shields.io/badge/MEM%20Community-Official%20Community%20Tool-ffd700?labelColor=0b1220)](https://www.memcommunity.com/official-community-tool-oct)
 ![Platform](https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows)
 ![Intune](https://img.shields.io/badge/Microsoft-Intune-5E5E5E?logo=microsoft)
